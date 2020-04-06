@@ -34,6 +34,7 @@ public class SheepStream {
 
         //суммарный вес.
         System.out.println(serviceSheep.allWeight());
+
         //количество овец с наиболее часто встречавшимся цветом шерсти
         System.out.println(serviceSheep.groupByColor());
         //максимальный возраст
